@@ -1,4 +1,4 @@
-# 📚 Wielkopolska Biblioteka Cyfrowa (Great Poland Digital Library) - Data Analysis
+#  Wielkopolska Biblioteka Cyfrowa (Great Poland Digital Library) - Data Analysis
 
 This repository contains a data analysis project focusing on the statistics of the Wielkopolska Biblioteka Cyfrowa. 
 
